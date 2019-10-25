@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "784110309263",
+    "firebase_url": "https://lojaflutter-90cab.firebaseio.com",
+    "project_id": "lojaflutter-90cab",
+    "storage_bucket": "lojaflutter-90cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784110309263:android:8c47d7be747acd8f9285fa",
+        "android_client_info": {
+          "package_name": "br.com.pereira.gerente_loja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784110309263-dgttckhp23rbslvka4fqn5dva5mn2a0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASZsbWNUhwbdjuYa7yIpoPIVLd7oVoMNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784110309263-dgttckhp23rbslvka4fqn5dva5mn2a0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "784110309263-nr3fj95c0asi3e7hda4je5m5k0n2f948.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.pereira.lojaVirtual"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784110309263:android:4f41b1a8daff409f9285fa",
+        "android_client_info": {
+          "package_name": "br.com.pereira.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784110309263-dgttckhp23rbslvka4fqn5dva5mn2a0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASZsbWNUhwbdjuYa7yIpoPIVLd7oVoMNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784110309263-dgttckhp23rbslvka4fqn5dva5mn2a0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "784110309263-nr3fj95c0asi3e7hda4je5m5k0n2f948.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.pereira.lojaVirtual"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
